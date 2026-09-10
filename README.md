@@ -1,4 +1,4 @@
-# Unequal_barriers_AMBIO_2026
+# Unequal barriers to NCP. Nayret et al. 2026 - AMBIO
 
 This repository allows the replication of the results from the paper Neyret M., Lavorel S., Locatelli B., and Martin Lopez B. 2026. Unequal barriers to Nature's Contributions to People impact quality of life. AMBIO. https://doi.org/10.1007/s13280-026-02482-z
 
