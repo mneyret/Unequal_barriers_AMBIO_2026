@@ -1,0 +1,11 @@
+Column name;Description;;;;;;;;
+Respondent;Respondent id;;;;;;;;
+NCP;NCP name;;;;;;;;
+Barrier;Barrier name (if single barrier) or n_barriers;;;;;;;;
+Barrier_value;If Barrier indicates a single value, 0/1 (not reported/reported). If Barrier is n_bariers, number of barriers reported;;;;;;;;
+NCP_type;NCP category (material, non-material, regulating);;;;;;;;
+weights_hunters;"Hunters were down weighted (weight: 0.1) for representativity; others were given a weight of 1.";;;;;;;;
+Socio;Socio-demographic variable. _num suffix indicates that the variable was transformed into an ordinal variable (e.g., income levels 1 to 7);;;;;;;;
+Socio_value;Value associated to the socio-demographic variable;;;;;;;;
+Satisfaction_value;Likert scale indicating the degree of satisfaction with the NCP provided (1 to 4);;;;;;;;
+QoL_value;Likert scale indicating the degree of satisfaction with the overall quality of life (1 to 4);;;;;;;;
